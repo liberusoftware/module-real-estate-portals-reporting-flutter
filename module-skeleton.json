@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-portals-reporting-flutter",
+  "capabilityKey": "liberusoftware/real-estate-portals-reporting",
+  "presentation": "mobile-flutter",
+  "package": "module_real_estate_portals_reporting_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/real-estate/nextjs/real-estate-portals-reporting.md",
+  "presentationPlan": "projects/real-estate/flutter/real-estate-portals-reporting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
